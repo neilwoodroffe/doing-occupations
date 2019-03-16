@@ -4,23 +4,33 @@
 
 <p align="center"><img src="img/basket_title.jpg"></p>
 <br>
-##Occupation
+##Purposeful vs Meaningful Occupations
 
-***3rd February 2019***
+***17th March 2019***
 
-We're doing occupations. Welcome to the second blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
+We're doing occupations. Welcome to the third blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
 
-You have probably noticed the introduction picture of someone weaving a basket and yes I am proud of it, thanks Pixabay. The reason why I chose this picture is because it reminds me of the core idea behind Occupational Therapy, which is helping people to do occupations. In 2019, I definitely don't prescribe basket weaving as a therapeutic intervention (and never have), but it would have been very relevant activity in the early 1900s in a time of manufacturing. Basket weaving and similar arts and crafts activities could be used as an intervention to simulate manual labouring or factory work. I could imagine the main goal of most patients in this time would have been to return to work or return to caring for their families.
+The terms, meaningful and purposeful are often mistaken to mean the same thing, however this is not the case. Most occupations are purposeful, but may or may not be meaningful to someone. A purposeful occupation is an activity that has a definite purpose (e.g. I run everyday to improve my fitness). A meaningful occupation is a activity that is important to us (e.g. I really like to go running everyday). I guess it is easy to mess this up, because both terms are often used simultaneously (e.g. I really like to go running everyday, because it improves my fitness).
 
-Obviously, we have come a long way since the early days of OT as we now have many frameworks of practice, scientific evidence and hundreds of specific assessments and interventions, but the core idea of helping people to do occupations has not changed. I still believe that the best assessment is observing the person performing the occupation and the best intervention is to help them to re-engage in the occupation.
+<p align="center"><img src="img/happy-cleaner.jpg">"I enjoy cleaning!"</p>
 
-<p align="center"><img src="img/OT4girl.jpg"></p>
+In Occupational Therapy we are definitely confronted with these two terms on a regular basis. It is important for the Occupational Therapist to recommend interventions that are both purposeful and meaningful. This is why it is so important to conduct interviews and assessments with the client to identify what they need and want to achieve from Occupational Therapy. Occupational Therapists are good at identifying purposeful interventions, but can sometimes run into troubles identifying meaningful interventions for clients because:
 
-It is good to reflect on our past, but it is more important to change and adapt with the future. Technology has changed how we perform most occupations and it is continually evolving. Though arts and crafts may still be used as a bed side intervention, it may be now more relevant to use a tablet or an iPad. But no matter what assessments and interventions we choose, the main point is that we help clients to return to doing occupations that are meaningful and purposeful for them and this core Occupational Therapy idea has not changed.
+-  A family member/carer may be recommending goals on behalf of the client
+- The client has difficulties identifying meaningful occupations or has no/few identified interests
+- The client has reduced or diminished decision making capacity
 
+If the family member/carer has recommended goals for the client, then this should be explored further with the client. Family members/carers generally know the client well and can offer some good information about the client's function and interests, but may not know exactly what is meaningful for the client. Clients often have to engage in purposeful activities that are meaningful to other members of the family, but not necessarily for themselves; the client may do these occupations because it is part of their role in the family. In these cases it would be beneficial for the Occupational Therapist to develop the intervention plan with both the client and the family member/carer, but to make sure the client is happy with the decisions being made.
 
+Most Occupational Therapists have come across at least one client who is unable to identify any meaningful occupations or has no/few identified interests. This is why interest checklists were developed. Often clients just haven't thought about occupations as being meaningful and just need a bit of extra support to identify the things that are important to them. Sometimes clients also just need to be exposed to a few different or new occupations to find out what they enjoy.
 
-***Lets do occupations!***
+It maybe difficult for clients with reduced or diminished decision making capacity to identify purposeful and meaningful occupations. It these cases Occupational Therapists involve family members/carers to help guide interventions or may need to involve/organise formal decision makers such as an Enduring Power of Attorney, Guardian or Financial Administrator. Through collaboration, assessment and engagement the client will hopefully become involved in some purposeful and meaningful occupations. 
+
+<p align="center"><img src="img/unhappy-cleaner.jpg">"I wish I didn't have to clean up this mess!"</p>
+
+Just remember, people generally continue occupations that are meaningful and enjoyable! It is OK if your client does not like to clean and would like to arrange a cleaner!
+
+***Keep on doing occupations!***
 
 [Neil Woodroffe, Occupational Therapist](archive/meet_neil.html)
 
