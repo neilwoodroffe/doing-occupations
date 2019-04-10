@@ -4,31 +4,23 @@
 
 <p align="center"><img src="img/basket_title.jpg"></p>
 <br>
-##Purposeful vs Meaningful Occupations
+##Drug Induced Psychosis
 
-***17th March 2019***
+***10th April 2019***
 
-We're doing occupations. Welcome to the third blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
+We're doing occupations. Welcome to the fourth blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
 
-The terms, meaningful and purposeful are often mistaken to mean the same thing, however this is not the case. Most occupations are purposeful, but may or may not be meaningful to someone. A purposeful occupation is an activity that has a definite purpose (e.g. I run everyday to improve my fitness). A meaningful occupation is a activity that is important to us (e.g. I really like to go running everyday). I guess it is easy to mess this up, because both terms are often used simultaneously (e.g. I really like to go running everyday, because it improves my fitness).
+I am going to tell you a story about myself that I am not proud of and that is why I haven't openly shared this story before. Between the ages of 16 to 19, I was regularly using a variety of drugs and I guess you could say that smoking cannabis was one of my daily occupations. At the age of 18½, I started training Kung Fu. I would usually use drugs before each daily Kung Fu training session. Over period of a few months, I started to develop some grandiose and delusional beliefs that I was developing chi power and that certain people were possessed by demons. My activities of daily living started to decline. I became paranoid and developed inappropriate social behaviour, which resulted in the loss of my job. 
 
-<p align="center"><img src="img/happy-cleaner.jpg">"I enjoy cleaning!"</p>
+<p align="center"><img src="img/cannabis.jpg"></p>
 
-In Occupational Therapy we are definitely confronted with these two terms on a regular basis. It is important for the Occupational Therapist to recommend interventions that are both purposeful and meaningful. This is why it is so important to conduct interviews and assessments with the client to identify what they need and want to achieve from Occupational Therapy. Occupational Therapists are good at identifying purposeful interventions, but can sometimes run into troubles identifying meaningful interventions for clients because:
+One night I believed that my training partner was the son of the devil, who was sent to the destroy the world. I remember being so frightened that I ran 10 kilometres to my Kung Fu Master's home to tell him what I had discovered. I also told him that I had been using drugs. The Master became was very worried about me; he advised me to stop using drugs and then drove me home to go to sleep. Unfortunately I didn't sleep very well that night, as I believed that there was a demon outside my house that was trying to kill me.
 
--  A family member/carer may be recommending goals on behalf of the client
-- The client has difficulties identifying meaningful occupations or has no/few identified interests
-- The client has reduced or diminished decision making capacity
+The next day I asked my friend to take me to the local hospital for a psychiatric assessment. The psychiatrist told me that I had experienced a drug induced psychotic episode, he provided me with psycho-education and recommended that I cease all drug use. Luckily, I didn't need to be commenced on anti-psychotic medication. This negative event scared me so much, that I immediately ceased all drug use. I didn't even drink any alcohol for 6 months. The Kung Fu Master also asked me to attend the Thai Temple to be blessed by a Buddhist Priest, which actually helped to calm my thoughts. It took me a week or two to feel normal again and to fully regain my occupational functioning.
 
-If the family member/carer has recommended goals for the client, then this should be explored further with the client. Family members/carers generally know the client well and can offer some good information about the client's function and interests, but may not know exactly what is meaningful for the client. Clients often have to engage in purposeful activities that are meaningful to other members of the family, but not necessarily for themselves; the client may do these occupations because it is part of their role in the family. In these cases it would be beneficial for the Occupational Therapist to develop the intervention plan with both the client and the family member/carer, but to make sure the client is happy with the decisions being made.
+<p align="center"><img src="img/stop.jpg"></p>
 
-Most Occupational Therapists have come across at least one client who is unable to identify any meaningful occupations or has no/few identified interests. This is why interest checklists were developed. Often clients just haven't thought about occupations as being meaningful and just need a bit of extra support to identify the things that are important to them. Sometimes clients also just need to be exposed to a few different or new occupations to find out what they enjoy.
-
-It maybe difficult for clients with reduced or diminished decision making capacity to identify purposeful and meaningful occupations. It these cases Occupational Therapists involve family members/carers to help guide interventions or may need to involve/organise formal decision makers such as an Enduring Power of Attorney, Guardian or Financial Administrator. Through collaboration, assessment and engagement the client will hopefully become involved in some purposeful and meaningful occupations. 
-
-<p align="center"><img src="img/unhappy-cleaner.jpg">"I wish I didn't have to clean up this mess!"</p>
-
-Just remember, people generally continue occupations that are meaningful and enjoyable! It is OK if your client does not like to clean and would like to arrange a cleaner!
+I soon found a good long-term job, eventually returned to study and I became an Occupational Therapist approximately 11 years later. Though I wouldn't recommend this pathway to anyone, this lived experience has helped me to relate to clients with similar experiences and to better understand how drugs can negatively affect occupational performance.
 
 ***Keep on doing occupations!***
 

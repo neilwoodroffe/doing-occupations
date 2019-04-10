@@ -13,5 +13,7 @@
 
 [Occupation](archive/occupation.html)
 
+[Purposeful vs Meaningful Occupation](archive/purp_vs_mean.html)
+
 ***
 <p style="color: grey;"> Doing Occupations (2018) </p>
