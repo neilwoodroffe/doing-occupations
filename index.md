@@ -4,23 +4,31 @@
 
 <p align="center"><img src="img/basket_title.jpg"></p>
 <br>
-##Drug Induced Psychosis
+##Occupational Model of Doing (OTMOD)
 
-***10th April 2019***
+***12th May 2019***
 
-We're doing occupations. Welcome to the fourth blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
+We're doing occupations. Welcome to the fifth blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
 
-I am going to tell you a story about myself that I am not proud of and that is why I haven't openly shared this story before. Between the ages of 16 to 19, I was regularly using a variety of drugs and I guess you could say that smoking cannabis was one of my daily occupations. At the age of 18½, I started training Kung Fu. I would usually use drugs before each daily Kung Fu training session. Over period of a few months, I started to develop some grandiose and delusional beliefs that I was developing chi power and that certain people were possessed by demons. My activities of daily living started to decline. I became paranoid and developed inappropriate social behaviour, which resulted in the loss of my job. 
+I was recently thinking about how and why Occupational Therapy is not well understood by people outside the profession. I envisioned a concept of using cartoon characters to help define and market OT to the public and as a result [TEAM OT](https://neilwoodroffe.github.io/what-is-ot/) was born:
 
-<p align="center"><img src="img/cannabis.jpg"></p>
+- Dot: The importance of doing occupations
+- Scot: The science behind Occupational Therapy
+- Robot: Adapt, modify and assist
 
-One night I believed that my training partner was the son of the devil, who was sent to the destroy the world. I remember being so frightened that I ran 10 kilometres to my Kung Fu Master's home to tell him what I had discovered. I also told him that I had been using drugs. The Master became was very worried about me; he advised me to stop using drugs and then drove me home to go to sleep. Unfortunately I didn't sleep very well that night, as I believed that there was a demon outside my house that was trying to kill me.
+I then envisioned the Occupational Model of Doing (OTMOD), which could be applied using the three concepts outlined by Team OT.
 
-The next day I asked my friend to take me to the local hospital for a psychiatric assessment. The psychiatrist told me that I had experienced a drug induced psychotic episode, he provided me with psycho-education and recommended that I cease all drug use. Luckily, I didn't need to be commenced on anti-psychotic medication. This negative event scared me so much, that I immediately ceased all drug use. I didn't even drink any alcohol for 6 months. The Kung Fu Master also asked me to attend the Thai Temple to be blessed by a Buddhist Priest, which actually helped to calm my thoughts. It took me a week or two to feel normal again and to fully regain my occupational functioning.
+<p align="center"><img src="img/OTMOD.jpg"></p>
 
-<p align="center"><img src="img/stop.jpg"></p>
+The following is a summary of OTMOD:
 
-I soon found a good long-term job, eventually returned to study and I became an Occupational Therapist approximately 11 years later. Though I wouldn't recommend this pathway to anyone, this lived experience has helped me to relate to clients with similar experiences and to better understand how drugs can negatively affect occupational performance.
+The green centre circle identifies the core principle of Occupational Therapy, which is that people need to do occupations (human activities) to have purposeful and meaningful lives. Occupational Therapists understand that people with barriers can have difficulties performing occupations. This knowledge of occupation is mainly derived from the science behind Occupational Therapy namely Occupational Science. 
+
+The large yellow circle represents Occupational Science, which is the study of human occupation. Occupational Science aims to explain why and how people perform occupations and provides scientific evidence to guide Occupational Therapy practice. However, in order to truly and holistically understand occupation one must have an thorough understanding of all sciences (orange circles) that affect or explain human activity. Occupational Therapists are taught general sciences including Anatomy, Physiology, Sociology and Psychology etc. Occupational Therapy itself is generally classified under the umbrella of Rehabilitative Sciences, which aims to use evidence based (scientifically proven) assessment and treatment modalities. Many Occupational Therapists also gain a good understanding of Ergonomics and Biomechanics. Many factors can affect human participation in occupations, so additional studies in sciences such as Physics, Biochemistry, Anthropology and Environmental Science etc can help us to further understand human occupation.
+
+The blue circle identifies that people with barriers may need Occupational Therapy assessment and treatment to maintain, restore or improve function, but unfortunately it is not always possible to achieve this. In these cases, the Occupational Therapist may need to adapt the task, modify the environment, prescribe assistive technology or recommend assistance from others to enable the client to do their purposeful and meaningful occupations.
+
+One key difference between OTMOD and other OT models is the inclusion of Occupational Science and other sciences. Occupational Therapy would not be around today without the science behind its practice!
 
 ***Keep on doing occupations!***
 

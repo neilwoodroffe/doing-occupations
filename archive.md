@@ -15,5 +15,7 @@
 
 [Purposeful vs Meaningful Occupation](archive/purp_vs_mean.html)
 
+[Drug Induced Psychosis](archive/psychosis.html)
+
 ***
 <p style="color: grey;"> Doing Occupations (2018) </p>

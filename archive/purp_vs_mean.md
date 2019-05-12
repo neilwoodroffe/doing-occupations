@@ -32,7 +32,7 @@ Just remember, people generally continue occupations that are meaningful and enj
 
 ***Keep on doing occupations!***
 
-[Neil Woodroffe, Occupational Therapist](archive/meet_neil.html)
+[Neil Woodroffe, Occupational Therapist](meet_neil.html)
 
 ***
 <p style="color: grey;"> Doing Occupations (2019) </p>
