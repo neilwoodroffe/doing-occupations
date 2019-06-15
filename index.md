@@ -2,33 +2,33 @@
 | [Home](index.html) | [Older Posts](archive.html) |
 | --------|--------|
 
-<p align="center"><img src="img/basket_title.jpg"></p>
+<p align="center"><img src="img/doing_pic.jpg"></p>
 <br>
-##Occupational Model of Doing (OTMOD)
+##Jaw Dropping Incidents
 
-***12th May 2019***
+***16th June 2019***
 
-We're doing occupations. Welcome to the fifth blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
+We're doing occupations. Welcome to the sixth blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
 
-I was recently thinking about how and why Occupational Therapy is not well understood by people outside the profession. I envisioned a concept of using cartoon characters to help define and market OT to the public and as a result [TEAM OT](https://neilwoodroffe.github.io/what-is-ot/) was born:
+I have worked as an Occupational Therapist in Mental Health since 2008 and I've seen my fair share of jaw dropping incidents. I am going to share three real cases, that actually made my jaw drop. 
 
-- Dot: The importance of doing occupations
-- Scot: The science behind Occupational Therapy
-- Robot: Adapt, modify and assist
+####The Industrial Bin
 
-I then envisioned the Occupational Model of Doing (OTMOD), which could be applied using the three concepts outlined by Team OT.
+I was working with Mr K who was living at an emergency homeless shelter. I went to see Mr K and he was very excited to tell me that he had found a job at a local strip club. Mr K was vague about his role at the club, however he did claim that it was a paid position. Unfortunately I did not see Mr K again, as he went missing. Several months later we were informed by police that Mr K's body was found in pieces at the dump. An investigation identified that his body was originally placed in an industrial bin out the back of the strip club, where he had worked. Supposedly, the murder was associated with Mr K owing drug money.
 
-<p align="center"><img src="img/OTMOD.jpg"></p>
+<p align="center"><img src="img/garbage.jpg"></p>
 
-The following is a summary of OTMOD:
+####The Sea Cucumber
 
-The green centre circle identifies the core principle of Occupational Therapy, which is that people need to do occupations (human activities) to have purposeful and meaningful lives. Occupational Therapists understand that people with barriers can have difficulties performing occupations. This knowledge of occupation is mainly derived from the science behind Occupational Therapy namely Occupational Science. 
+I was working in a Mental Health Community Care Unit and it was part of my role as an OT to engage clients in recreational activities. I accompanied a group of clients to the beach to go for a walk. Mr J picked up a sea cucumber and put it in his pocket. I asked Mr J what he was planning to do with the sea cucumber? Mr J instantly put the sea cucumber in his mouth and swallowed it whole. I was quite concerned because the sea cucumber was at about 2 inches in diameter and 5 inches long. I googled sea cucumber and found out that they may be poisonous to humans. I immediately took Mr J back to the unit and he was sent to emergency, luckily he was soon medically cleared with no concerns. 
 
-The large yellow circle represents Occupational Science, which is the study of human occupation. Occupational Science aims to explain why and how people perform occupations and provides scientific evidence to guide Occupational Therapy practice. However, in order to truly and holistically understand occupation one must have an thorough understanding of all sciences (orange circles) that affect or explain human activity. Occupational Therapists are taught general sciences including Anatomy, Physiology, Sociology and Psychology etc. Occupational Therapy itself is generally classified under the umbrella of Rehabilitative Sciences, which aims to use evidence based (scientifically proven) assessment and treatment modalities. Many Occupational Therapists also gain a good understanding of Ergonomics and Biomechanics. Many factors can affect human participation in occupations, so additional studies in sciences such as Physics, Biochemistry, Anthropology and Environmental Science etc can help us to further understand human occupation.
+<p align="center"><img src="img/cucumber.png"></p>
 
-The blue circle identifies that people with barriers may need Occupational Therapy assessment and treatment to maintain, restore or improve function, but unfortunately it is not always possible to achieve this. In these cases, the Occupational Therapist may need to adapt the task, modify the environment, prescribe assistive technology or recommend assistance from others to enable the client to do their purposeful and meaningful occupations.
+####Big Pile of Guns
 
-One key difference between OTMOD and other OT models is the inclusion of Occupational Science and other sciences. Occupational Therapy would not be around today without the science behind its practice!
+Mr S was referred due concerns about his decision making capacity and financial vulnerability, following the death of his mother. I organised for Mr S to be managed under guardianship and financial administration orders. Following the approval process, I received a letter from the police raising concerns about Mr S's capacity to hold a gun licence. I initially did not believe that this 64 year old vulnerable man would even hold a gun licence. I phoned Mr S and he advised that his mother had been supportive of him collecting antique rifles and pistols and he had held a gun licence since the 1970s. Mr S stated that he still owned a few guns, which were stored in his wardrobe. I conducted a home visit and found at least 20 antique guns wrapped in blankets, which were not stored in a locked safe (requirement in Australia). Mr S's gun licence was revoked and the police arranged to collect all the guns. Mr S stacked all 45 rifles and pistols on his bed ready for collection and it was the biggest pile of guns that I have ever seen. Even though a few of the guns were not registered, Mr S was not charged by police and the guns were sold for him by his financial administrator for a reasonable sum.
+
+<p align="center"><img src="img/guns.jpg"></p>
 
 ***Keep on doing occupations!***
 
