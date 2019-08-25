@@ -1,34 +1,32 @@
 
-| [Home](index.html) | [Older Posts](archive.html) |
+| [Home](index.html) | [Previous Posts](archive.html) |
 | --------|--------|
 
 <p align="center"><img src="img/doing_pic.jpg"></p>
 <br>
-##Jaw Dropping Incidents
+##Two Inspiring Online OTs
 
-***16th June 2019***
+***25th August 2019***
 
-We're doing occupations. Welcome to the sixth blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
+We're doing occupations. Welcome to the seventh blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
 
-I have worked as an Occupational Therapist in Mental Health since 2008 and I've seen my fair share of jaw dropping incidents. I am going to share three real cases, that actually made my jaw drop. 
+Hi all, you probably heard that I quit OT blogging last month. I had a little occupational overload and thought I needed to cull one of my occupations, but I was wrong. I was re-inspired by the two OTs, Brock Cook and Jamie Grant who inadvertently inspired me to start my online OT journey. In late 2018, I firstly created my [Doing Occupations](https://www.facebook.com/doingoccupations) Facebook page to post some of my Occupational Therapy and Information Technology creations. I then created this simple OT blogging platform using Markdown and HTML, which is hosted for free on [GitHub](https://github.com/neilwoodroffe/doing-occupations).
 
-####The Industrial Bin
+The following is by no means a full account of Brock's and Grant's achievements in the OT or online worlds:
 
-I was working with Mr K who was living at an emergency homeless shelter. I went to see Mr K and he was very excited to tell me that he had found a job at a local strip club. Mr K was vague about his role at the club, however he did claim that it was a paid position. Unfortunately I did not see Mr K again, as he went missing. Several months later we were informed by police that Mr K's body was found in pieces at the dump. An investigation identified that his body was originally placed in an industrial bin out the back of the strip club, where he had worked. Supposedly, the murder was associated with Mr K owing drug money.
+###Brock Cook
 
-<p align="center"><img src="img/garbage.jpg"></p>
+I first met Brock in about 2011, when he was working as an OT in Mental Health Services at the Royal Brisbane and Women's Hospital. A year or so after Brock had moved on from the RBWH, someone at work mentioned that Brock had developed a website called [MH4OT](https://mh4ot.com/). I was immediately impressed with his work and I have used his [Occupational Therapy Assessment Index](https://mh4ot.com/resources/ot-assessment-index/) on many occasions. Brock is obviously also the creator of the [MH4OT](https://www.facebook.com/groups/MH4OT/) Facebook group, which was inspired by [OT4OT](https://www.facebook.com/groups/311439915949/). In 2018, while searching for some CPD, I stumbled across Brock's Occupational Therapy podcast [Occupied](http://www.brockcook.com/category/podcast/) and I too became totally occupied.
 
-####The Sea Cucumber
+<p align="center"><a href="https://mh4ot.com/" ><img src="img/mh4ot.jpg"></a></p>
 
-I was working in a Mental Health Community Care Unit and it was part of my role as an OT to engage clients in recreational activities. I accompanied a group of clients to the beach to go for a walk. Mr J picked up a sea cucumber and put it in his pocket. I asked Mr J what he was planning to do with the sea cucumber? Mr J instantly put the sea cucumber in his mouth and swallowed it whole. I was quite concerned because the sea cucumber was at about 2 inches in diameter and 5 inches long. I googled sea cucumber and found out that they may be poisonous to humans. I immediately took Mr J back to the unit and he was sent to emergency, luckily he was soon medically cleared with no concerns. 
+###Jamie Grant
 
-<p align="center"><img src="img/cucumber.png"></p>
+In 2018, I found Jamie's website, [The Occupational Therapy Hub](https://www.theothub.com/) during a Google search. I instantly signed up and was amazed with Jamie's idea to create an online community for Occupational Therapists. Jamie has also managed to recruit a team of OTs from around the world who share his vision. The Occupational Therapy Hub just keeps on getting better and you'll find heaps of Occupational Therapy resources (forum, articles, CPD, jobs etc.) when you join up for the free membership or you can now upgrade to the plus membership for an ridiculously low cost.
 
-####Big Pile of Guns
+<p align="center"><a href="https://www.theothub.com/"><img src="img/othub.jpg"></a></p>
 
-Mr S was referred due concerns about his decision making capacity and financial vulnerability, following the death of his mother. I organised for Mr S to be managed under guardianship and financial administration orders. Following the approval process, I received a letter from the police raising concerns about Mr S's capacity to hold a gun licence. I initially did not believe that this 64 year old vulnerable man would even hold a gun licence. I phoned Mr S and he advised that his mother had been supportive of him collecting antique rifles and pistols and he had held a gun licence since the 1970s. Mr S stated that he still owned a few guns, which were stored in his wardrobe. I conducted a home visit and found at least 20 antique guns wrapped in blankets, which were not stored in a locked safe (requirement in Australia). Mr S's gun licence was revoked and the police arranged to collect all the guns. Mr S stacked all 45 rifles and pistols on his bed ready for collection and it was the biggest pile of guns that I have ever seen. Even though a few of the guns were not registered, Mr S was not charged by police and the guns were sold for him by his financial administrator for a reasonable sum.
-
-<p align="center"><img src="img/guns.jpg"></p>
+I highly recommend linking with OT4OT, MH4OT, Occupied and The Occupational Therapy Hub for CPD and to enhance your engagement in the OT profession. Hopefully one day I can catch up with these inspiring, online OTs to collaborate.
 
 ***Keep on doing occupations!***
 
