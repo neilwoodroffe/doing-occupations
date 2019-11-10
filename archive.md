@@ -22,5 +22,7 @@
 [Jaw Dropping Incidents](archive/jawdrop.html)
 
 [Two Inspiring Online OTs](archive/inspiring_ots)
+
+[My Speciality is Occupation!](archive/speciality_occupation.html)
 ***
 <p style="color: grey;"> Doing Occupations (2018) </p>
