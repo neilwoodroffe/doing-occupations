@@ -20,7 +20,7 @@ The Occupational Therapist conducted a comprehensive assessment including The Oc
 
 Unfortunately no-one in Jessica's family was willing and able to take on this responsibility, therefore the Public Trustee and Adult Guardian was appointed by QCAT. Although Jessica was initially upset, she soon realised the benefits of having stable accommodation, savings in her bank account and support workers to help care for her daily needs. 
 
-Jessica stated that she now glad to be receiving extra support and this will be the best Christmas she has had in many years. With support, she has been able to decorate her new unit, bake some Christmas goodies for her family and afford and buy presents for her nephews and nieces. Merry Christmas Jessica!
+Jessica stated that she now glad to be receiving extra support and this will be the best Christmas she has had in many years. With support, she has been able to decorate her new unit, bake some Christmas goodies for her family and afford to buy presents for her nephews and nieces. Merry Christmas Jessica!
 
 <p align="center"><img src="img/christmas.jpg"></p>
  
