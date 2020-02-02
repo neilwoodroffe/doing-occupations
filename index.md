@@ -6,7 +6,7 @@
 <br>
 ##Motivating Clients to Change?
 
-***27rd January 2020***
+***2nd February 2020***
 
 We're doing occupations. Welcome to the 11th blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
 
