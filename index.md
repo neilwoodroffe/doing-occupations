@@ -2,31 +2,28 @@
 | [Home](index.html) | [Previous Posts](archive.html) |
 | --------|--------|
 
-<p align="center"><img src="img/doing_pic.jpg"></p>
+<p align="center"><img src="img/doingOT.jpg"></p>
 <br>
-##Decision Making Capacity - A Christmas Story
+##Motivating Clients to Change?
 
-***23rd December 2019***
+***27rd January 2020***
 
-We're doing occupations. Welcome to the tenth blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
+We're doing occupations. Welcome to the 11th blog post in this series. The main aim of this blog is to talk about Occupational Therapy and Occupational Science. 
 
-As an Occupational Therapist working in mental health, I have often been involved in assessing whether someone has capacity to live independently and to manage their finances. In Queensland, Australia the [Queensland Civil and Administrative Tribunal (QCAT)](https://www.qcat.qld.gov.au/about-qcat) can appoint a Financial Administrator and Guardian for a person who does not have capacity to make decisions with regards to their finances, accommodation and provision of services etc. The following is a case scenario regarding Occupational Therapy assessment and involvement in this process:
+Most Occupational Therapists have come across at least one client who has declined to participate in treatment or did not accept recommendations for assistive equipment. Obviously, we can't force someone to agree to Occupational Therapy treatment, so we are left to justify the client's decision in our clinical notes. But should we do more? Of course we should! Firstly, we need to explore why the client does not want to change or engage in treatment. [The Transtheoretical Model (Stages of Change)](https://www.prochange.com/transtheoretical-model-of-behavior-change) can be used to identify a client's current motivation to change. The picture below shows movement through stages as a linear progression, though movement can occur back and forth between the stages.
 
- <p align="center"><img src="img/confused.jpg"></p>
- 
-Jessica is a 30 year old woman who was first diagnosed with paranoid schizophrenia at the age of 18. She has been having difficulties maintaining her accommodation and managing her finances. Jessica has recently experienced periods of homelessness and often runs out of money one week before her next fortnightly Disability Support Pension. As a result, the Psychiatrist has made a referral for an Occupational Therapy assessment.
- 
-The Occupational Therapist conducted a comprehensive assessment including The Occupational Circumstances Assessment Interview and Rating Scale (OCAIRS), Montreal Cognitive Assessment (MoCA), Gold Coast Financial Assessment and Model of Human Occupation Screening Tool (MOHOST) and an observational shopping and cooking assessment. The Occupational Therapy report supported that Jessica requires a Financial Administrator and a Guardian for decisions regarding accommodation. The report also recommended that Jessica requires a Guardian for provision of services to approve support for her to  maintain independent living.
+<p align="center"><a href="https://commons.wikimedia.org/wiki/File:Transtheoretical_Model_-_Stages_of_change.jpg"><img src="img/change.jpg" title="link to source"></a></p>
 
-Unfortunately no-one in Jessica's family was willing and able to take on this responsibility, therefore the Public Trustee and Adult Guardian was appointed by QCAT. Although Jessica was initially upset, she soon realised the benefits of having stable accommodation, savings in her bank account and support workers to help care for her daily needs. 
+Motivational Interviewing involves techniques that can be used to help clients to move through the stages of change. Over the years I have taken part in several Motivational Interviewing courses and I would recommend that all Occupational Therapists learn the principles of Motivational Interviewing. Below is a YouTube Clip by Dr Bill Matulich introducing Motivational Interviewing:
+<br>
 
-Jessica stated that she now glad to be receiving extra support and this will be the best Christmas she has had in many years. With support, she has been able to decorate her new unit, bake some Christmas goodies for her family and afford to buy presents for her nephews and nieces. Merry Christmas Jessica!
+<p align="center"><iframe width="448" height="252" src="https://www.youtube.com/embed/s3MCJZ7OGRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<br>
+Occupational Therapists working in inpatient services who experience clients with poor volition, may experience limited time to evoke change. In such cases, it would be beneficial to refer to a community based Occupational Therapist, who will likely have more time to help the client to make some positive changes using The Transtheoretical Model and Motivational Interviewing techniques.
 
-<p align="center"><img src="img/christmas.jpg"></p>
- 
 ***Keep on doing occupations!***
 
 [Neil Woodroffe, Occupational Therapist](archive/meet_neil.html)
 
 ***
-<p style="color: grey;"> Doing Occupations (2019) </p>
+<p style="color: grey;"> Doing Occupations (2020) </p>

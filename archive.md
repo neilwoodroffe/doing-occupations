@@ -26,5 +26,7 @@
 [My Speciality is Occupation!](archive/speciality_occupation.html)
 
 [Questioning My OT Career](archive/questioning_ot.html)
+
+[Decision Making Capacity - A Christmas Story](archive/decision_making.html)
 ***
 <p style="color: grey;"> Doing Occupations (2018) </p>
